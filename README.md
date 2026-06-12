@@ -56,6 +56,9 @@ Content of the dataset: “Taxa" - name of the morphotypes, " Depth" – sample 
 
 #=====================================================================================================================================================
 #ResNet50 ONNX model
+All this files housed at Zenodo
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Folder ResNet50_20250806-135512 includes following files and folders 
 Folder: model_onnx - contains onnx model, that can be loaded into ParticleTrieur and used for automatic identintification of the images 
 Foder: model_tf2 - contains tf2 model, that can be loaded into ParticleTrieur and used for automatic identintification of the images
