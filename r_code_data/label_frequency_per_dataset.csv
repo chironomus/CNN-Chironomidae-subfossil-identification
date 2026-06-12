@@ -1,0 +1,172 @@
+dataset,label,n
+Laguna de Rio Seco,Acari spp,4
+Laguna de Rio Seco,Background,1479
+Laguna de Rio Seco,Blurry specimens,240
+Laguna de Rio Seco,Chaoborus mandible,5
+Laguna de Rio Seco,Chaoborus th,2
+Laguna de Rio Seco,Chironomus spp,12
+Laguna de Rio Seco,Corynoneura spp,502
+Laguna de Rio Seco,Diatom,39
+Laguna de Rio Seco,Fragmented hc,869
+Laguna de Rio Seco,Heterotrissocladius marcidus,18
+Laguna de Rio Seco,Limnophyes type,1
+Laguna de Rio Seco,Mandible,61
+Laguna de Rio Seco,Mentum,1
+Laguna de Rio Seco,Micropsectra insignilobus,1
+Laguna de Rio Seco,Micropsectra radialis,429
+Laguna de Rio Seco,Microtendipes pedellus,1
+Laguna de Rio Seco,Multiple,120
+Laguna de Rio Seco,Orthocladiinae Diamesinae,35
+Laguna de Rio Seco,Paratanytarsus austriacus,2
+Laguna de Rio Seco,Particles,1365
+Laguna de Rio Seco,Pentaneurini spp,12
+Laguna de Rio Seco,Pollen,935
+Laguna de Rio Seco,Psectrocladius spp,1051
+Laguna de Rio Seco,Tanypodinae,35
+Laguna de Rio Seco,Tanytarsus lugens,4
+Laguna de Rio Seco,Tanytarsus spp,2
+Laguna de Rio Seco,others,1
+Laguna de Rio Seco,unsure,31
+Hijkermeer,Acari spp,422
+Hijkermeer,Background,231
+Hijkermeer,Blurry specimens,1075
+Hijkermeer,Chaoborus mandible,46
+Hijkermeer,Chaoborus th,2
+Hijkermeer,Chironomus spp,222
+Hijkermeer,Corynoneura spp,31
+Hijkermeer,Diatom,15
+Hijkermeer,Dicrotendipes spp,20
+Hijkermeer,Fragmented hc,584
+Hijkermeer,Heterotrissocladius marcidus,4
+Hijkermeer,Limnophyes type,111
+Hijkermeer,Mandible,21
+Hijkermeer,Mentum,171
+Hijkermeer,Micropsectra insignilobus,183
+Hijkermeer,Micropsectra radialis,8
+Hijkermeer,Microtendipes pedellus,1191
+Hijkermeer,Multiple,176
+Hijkermeer,Orthocladiinae Diamesinae,5
+Hijkermeer,Paratanytarsus austriacus,106
+Hijkermeer,Particles,284
+Hijkermeer,Pollen,5
+Hijkermeer,Polypedilum spp,60
+Hijkermeer,Psectrocladius spp,60
+Hijkermeer,Pseudochironomus spp,102
+Hijkermeer,Stictochironomus rosenschoeldi,47
+Hijkermeer,Tanypodinae,44
+Hijkermeer,Tanytarsus lugens,202
+Hijkermeer,Tanytarsus spp,69
+Hijkermeer,others,40
+Hijkermeer,unsure,72
+Tatra set,Acari spp,6
+Tatra set,Background,494
+Tatra set,Blurry specimens,236
+Tatra set,Chaoborus mandible,2
+Tatra set,Chaoborus th,1
+Tatra set,Chironomus spp,128
+Tatra set,Corynoneura spp,60
+Tatra set,Diatom,32
+Tatra set,Fragmented hc,259
+Tatra set,Heterotrissocladius marcidus,544
+Tatra set,Mandible,42
+Tatra set,Micropsectra radialis,934
+Tatra set,Microtendipes pedellus,2
+Tatra set,Multiple,22
+Tatra set,Orthocladiinae Diamesinae,653
+Tatra set,Paratanytarsus austriacus,190
+Tatra set,Particles,668
+Tatra set,Pentaneurini spp,86
+Tatra set,Pollen,6
+Tatra set,Psectrocladius spp,12
+Tatra set,Tanypodinae,188
+Tatra set,Tanytarsus lugens,738
+Tatra set,Tanytarsus spp,332
+Tatra set,others,10
+Tatra set,unsure,19
+Laguna de la Roya,Acari spp,19
+Laguna de la Roya,Background,10
+Laguna de la Roya,Blurry specimens,54
+Laguna de la Roya,Chaoborus mandible,354
+Laguna de la Roya,Chaoborus th,21
+Laguna de la Roya,Chironomus spp,16
+Laguna de la Roya,Corynoneura spp,59
+Laguna de la Roya,Dicrotendipes spp,1
+Laguna de la Roya,Fragmented hc,112
+Laguna de la Roya,Heterotrissocladius marcidus,3
+Laguna de la Roya,Limnophyes type,10
+Laguna de la Roya,Mandible,1
+Laguna de la Roya,Mentum,10
+Laguna de la Roya,Micropsectra insignilobus,993
+Laguna de la Roya,Micropsectra radialis,49
+Laguna de la Roya,Microtendipes pedellus,25
+Laguna de la Roya,Multiple,9
+Laguna de la Roya,Orthocladiinae Diamesinae,1
+Laguna de la Roya,Paratanytarsus austriacus,10
+Laguna de la Roya,Particles,23
+Laguna de la Roya,Pentaneurini spp,19
+Laguna de la Roya,Polypedilum spp,1
+Laguna de la Roya,Psectrocladius spp,28
+Laguna de la Roya,Pseudochironomus spp,3
+Laguna de la Roya,Stictochironomus rosenschoeldi,1
+Laguna de la Roya,Tanypodinae,67
+Laguna de la Roya,Tanytarsus lugens,35
+Laguna de la Roya,Tanytarsus spp,1
+Laguna de la Roya,others,1
+Laguna de la Roya,unsure,22
+lake Ana,Background,177
+lake Ana,Blurry specimens,66
+lake Ana,Chaoborus mandible,4
+lake Ana,Chaoborus th,7
+lake Ana,Chironomus spp,8
+lake Ana,Corynoneura spp,73
+lake Ana,Diatom,2
+lake Ana,Fragmented hc,506
+lake Ana,Heterotrissocladius marcidus,69
+lake Ana,Limnophyes type,2
+lake Ana,Mandible,21
+lake Ana,Micropsectra insignilobus,31
+lake Ana,Micropsectra radialis,90
+lake Ana,Microtendipes pedellus,13
+lake Ana,Multiple,64
+lake Ana,Orthocladiinae Diamesinae,13
+lake Ana,Particles,77
+lake Ana,Pentaneurini spp,14
+lake Ana,Pollen,1
+lake Ana,Psectrocladius spp,22
+lake Ana,Pseudochironomus spp,1
+lake Ana,Tanypodinae,19
+lake Ana,Tanytarsus lugens,9
+lake Ana,Tanytarsus spp,2
+lake Ana,others,1
+lake Ana,unsure,13
+lake Peleaga,Acari spp,23
+lake Peleaga,Background,778
+lake Peleaga,Blurry specimens,246
+lake Peleaga,Chaoborus mandible,31
+lake Peleaga,Chaoborus th,6
+lake Peleaga,Chironomus spp,52
+lake Peleaga,Corynoneura spp,319
+lake Peleaga,Diatom,6
+lake Peleaga,Dicrotendipes spp,3
+lake Peleaga,Fragmented hc,2184
+lake Peleaga,Heterotrissocladius marcidus,143
+lake Peleaga,Limnophyes type,14
+lake Peleaga,Mandible,70
+lake Peleaga,Mentum,7
+lake Peleaga,Micropsectra insignilobus,118
+lake Peleaga,Micropsectra radialis,407
+lake Peleaga,Microtendipes pedellus,68
+lake Peleaga,Multiple,366
+lake Peleaga,Orthocladiinae Diamesinae,83
+lake Peleaga,Paratanytarsus austriacus,19
+lake Peleaga,Particles,225
+lake Peleaga,Pentaneurini spp,27
+lake Peleaga,Pollen,1
+lake Peleaga,Polypedilum spp,3
+lake Peleaga,Psectrocladius spp,148
+lake Peleaga,Pseudochironomus spp,3
+lake Peleaga,Tanypodinae,214
+lake Peleaga,Tanytarsus lugens,267
+lake Peleaga,Tanytarsus spp,41
+lake Peleaga,others,10
+lake Peleaga,unsure,99
