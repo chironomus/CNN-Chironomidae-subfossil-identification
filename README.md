@@ -52,6 +52,12 @@ Content of the dataset: “Taxa" - name of the morphotypes, " Depth" – sample 
 Content of the dataset: dataset contains 21 columns, first containing names of the rows (taxa) and 20 others, age of the sample. Dataset is transposed by code for analysis
 4l) Lake Peleaga, automatic counts: peleaga_aut_1.csv
 Content of the dataset: “Taxa" - name of the morphotypes, " Depth" – sample depth. Each row represents one specimen of measured subfossil here.
+#=====================================================================================================================================================
+Folder "QuPath anf ImageJ code" contains two files
+"region export2.groovy" - exports annotated regions of interest (ROI) in QuPath (in case of this code, we were calling ROI "patches"), via "automate"  menu of the QuPath
+"AutoViktor_Segmenter.ijm" - segments patches extracted from QuPath into the individual images, suitable for ParticleTrieur and further CNN training. 
+Is s Fiji/ImageJ plugin, that should be placed into the "plugins" folder of the Fiji/ImageJ, an executed via "Plugins" menu. In order for code to work, a target directory, in which images, you wish to segment are situated, must be placed into another folder, and this folder, containing target folder, should be selected as an input directory for the plugin.
+Modified from Tetard et al. (2020) https://cp.copernicus.org/articles/16/2415/2020/cp-16-2415-2020-discussion.html
 
 
 #=====================================================================================================================================================
@@ -61,7 +67,7 @@ All this files housed at Zenodo https://zenodo.org/records/18833507
 Folder ResNet50_20250806-135512 includes following files and folders 
 Folder: model_onnx - contains onnx model, that can be loaded into ParticleTrieur and used for automatic identintification of the images 
 Foder: model_tf2 - contains tf2 model, that can be loaded into ParticleTrieur and used for automatic identintification of the images
-
+ you
 also, folder contains diagnostoc and output files for the ResNet50 models
 /legend.csv
 /loss_vs_epoch.pdf
