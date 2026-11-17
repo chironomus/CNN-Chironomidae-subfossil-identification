@@ -1,0 +1,225 @@
+Class,model,cap,class_index,Precision,Recall,Accuracy
+Acari spp,CNN10,10,1,100,100,100
+Background,CNN10,10,2,100,100,100
+Blurry specimens,CNN10,10,3,100,100,100
+Chaoborus mandible,CNN10,10,4,100,100,100
+Chaoborus th,CNN10,10,5,100,100,100
+Chironomus spp,CNN10,10,6,0,0,0
+Corynoneura ,CNN10,10,7,0,0,0
+Diatoms,CNN10,10,8,66.7,100,100
+Dicrotendipes spp,CNN10,10,9,100,50,50
+Fragmented hc,CNN10,10,10,33.3,50,50
+Heterotrissocladius marcidus,CNN10,10,11,100,100,100
+Limnophyes type,CNN10,10,12,100,50,50
+Mandible,CNN10,10,13,100,100,100
+Mentum,CNN10,10,14,33.3,50,50
+Micropsectra insignilobus,CNN10,10,15,100,50,50
+Micropsectra radialis,CNN10,10,16,0,0,0
+Microtendipes pedellus,CNN10,10,17,0,0,0
+Multiple,CNN10,10,18,0,0,0
+Orthocladiinae Diamesinae,CNN10,10,19,0,0,0
+Other Diptera,CNN10,10,20,0,0,0
+Paratanytarsus austriacus,CNN10,10,21,33.3,50,50
+Particles,CNN10,10,22,100,50,50
+Pentaneurini spp,CNN10,10,23,66.7,100,100
+Pollen,CNN10,10,24,100,100,100
+Polypedilum spp,CNN10,10,25,0,0,0
+Psectrocladius spp,CNN10,10,26,66.7,100,100
+Pseudochironomus spp,CNN10,10,27,33.3,50,50
+Stictochironomus rosenschoeldi,CNN10,10,28,50,50,50
+Tanypodinae,CNN10,10,29,0,0,0
+Tanytarsus lugens,CNN10,10,30,33.3,50,50
+Tanytarsus spp,CNN10,10,31,0,0,0
+Others,CNN10,10,32,50,60,60
+Acari spp,CNN25,25,1,100,100,100
+Background,CNN25,25,2,100,80,80
+Blurry specimens,CNN25,25,3,83.3,100,100
+Chaoborus mandible,CNN25,25,4,100,100,100
+Chaoborus th,CNN25,25,5,83.3,100,100
+Chironomus spp,CNN25,25,6,60,60,60
+Corynoneura ,CNN25,25,7,60,60,60
+Diatoms,CNN25,25,8,100,80,80
+Dicrotendipes spp,CNN25,25,9,75,75,75
+Fragmented hc,CNN25,25,10,75,60,60
+Heterotrissocladius marcidus,CNN25,25,11,100,80,80
+Limnophyes type,CNN25,25,12,50,40,40
+Mandible,CNN25,25,13,80,80,80
+Mentum,CNN25,25,14,71.4,100,100
+Micropsectra insignilobus,CNN25,25,15,75,60,60
+Micropsectra radialis,CNN25,25,16,33.3,60,60
+Microtendipes pedellus,CNN25,25,17,33.3,40,40
+Multiple,CNN25,25,18,80,80,80
+Orthocladiinae Diamesinae,CNN25,25,19,66.7,40,40
+Other Diptera,CNN25,25,20,0,0,0
+Paratanytarsus austriacus,CNN25,25,21,50,40,40
+Particles,CNN25,25,22,100,100,100
+Pentaneurini spp,CNN25,25,23,50,60,60
+Pollen,CNN25,25,24,100,100,100
+Polypedilum spp,CNN25,25,25,75,60,60
+Psectrocladius spp,CNN25,25,26,40,40,40
+Pseudochironomus spp,CNN25,25,27,50,80,80
+Stictochironomus rosenschoeldi,CNN25,25,28,60,60,60
+Tanypodinae,CNN25,25,29,60,60,60
+Tanytarsus lugens,CNN25,25,30,51.7,80,80
+Tanytarsus spp,CNN25,25,31,26,20,20
+Others,CNN25,25,32,66.7,40,40
+Acari spp,CNN50,50,1,100,90,90
+Background,CNN50,50,2,100,100,100
+Blurry specimens,CNN50,50,3,71.4,100,100
+Chaoborus mandible,CNN50,50,4,90.9,100,100
+Chaoborus th,CNN50,50,5,100,100,100
+Chironomus spp,CNN50,50,6,85.7,60,60
+Corynoneura ,CNN50,50,7,50,50,50
+Diatoms,CNN50,50,8,83.3,83.3,83
+Dicrotendipes spp,CNN50,50,9,25,25,25
+Fragmented hc,CNN50,50,10,33.3,10,10
+Heterotrissocladius marcidus,CNN50,50,11,60,60,60
+Limnophyes type,CNN50,50,12,85.7,75,75
+Mandible,CNN50,50,13,66.7,80,80
+Mentum,CNN50,50,14,75,90,90
+Micropsectra insignilobus,CNN50,50,15,63.6,70,70
+Micropsectra radialis,CNN50,50,16,37.5,30,30
+Microtendipes pedellus,CNN50,50,17,58.3,70,70
+Multiple,CNN50,50,18,88.9,80,80
+Orthocladiinae Diamesinae,CNN50,50,19,50,60,60
+Other Diptera,CNN50,50,20,40,33.3,33
+Paratanytarsus austriacus,CNN50,50,21,42.9,30,30
+Particles,CNN50,50,22,87.5,70,70
+Pentaneurini spp,CNN50,50,23,80,80,80
+Pollen,CNN50,50,24,90.9,100,100
+Polypedilum spp,CNN50,50,25,63.6,100,100
+Psectrocladius spp,CNN50,50,26,66.7,60,60
+Pseudochironomus spp,CNN50,50,27,80,80,80
+Stictochironomus rosenschoeldi,CNN50,50,28,100,40,40
+Tanypodinae,CNN50,50,29,66.7,100,100
+Tanytarsus lugens,CNN50,50,30,53.3,80,80
+Tanytarsus spp,CNN50,50,31,50,50,50
+Others,CNN50,50,32,0,0,0
+Acari spp,CNN100,100,1,100,100,100
+Background,CNN100,100,2,95,95,95
+Blurry specimens,CNN100,100,3,80,80,80
+Chaoborus mandible,CNN100,100,4,95.2,100,100
+Chaoborus th,CNN100,100,5,100,100,100
+Chironomus spp,CNN100,100,6,64.7,55,55
+Corynoneura ,CNN100,100,7,68.2,75,75
+Diatoms,CNN100,100,8,100,83.3,83
+Dicrotendipes spp,CNN100,100,9,33.3,25,25
+Fragmented hc,CNN100,100,10,40,20,20
+Heterotrissocladius marcidus,CNN100,100,11,65.2,75,75
+Limnophyes type,CNN100,100,12,77.8,87.5,88
+Mandible,CNN100,100,13,89.5,85,85
+Mentum,CNN100,100,14,72,90,90
+Micropsectra insignilobus,CNN100,100,15,60.9,70,70
+Micropsectra radialis,CNN100,100,16,50,45,45
+Microtendipes pedellus,CNN100,100,17,52,65,65
+Multiple,CNN100,100,18,69.6,80,80
+Orthocladiinae Diamesinae,CNN100,100,19,41.2,35,35
+Other Diptera,CNN100,100,20,33.3,50,50
+Paratanytarsus austriacus,CNN100,100,21,52.4,55,55
+Particles,CNN100,100,22,75,75,75
+Pentaneurini spp,CNN100,100,23,70.8,85,85
+Pollen,CNN100,100,24,100,100,100
+Polypedilum spp,CNN100,100,25,55.6,71.4,71
+Psectrocladius spp,CNN100,100,26,68.8,55,55
+Pseudochironomus spp,CNN100,100,27,77.8,58.3,58
+Stictochironomus rosenschoeldi,CNN100,100,28,100,40,40
+Tanypodinae,CNN100,100,29,81,85,85
+Tanytarsus lugens,CNN100,100,30,71.4,75,75
+Tanytarsus spp,CNN100,100,31,47.1,40,40
+Others,CNN100,100,32,33.3,25,25
+Acari spp,CNN300,300,1,92.2,94,94
+Background,CNN300,300,2,98.3,95,95
+Blurry specimens,CNN300,300,3,90.5,95,95
+Chaoborus mandible,CNN300,300,4,96.7,98.3,98
+Chaoborus th,CNN300,300,5,100,80,80
+Chironomus spp,CNN300,300,6,63.8,74,74
+Corynoneura ,CNN300,300,7,73.3,73.3,73
+Diatoms,CNN300,300,8,100,100,100
+Dicrotendipes spp,CNN300,300,9,0,0,0
+Fragmented hc,CNN300,300,10,59.2,48.3,48
+Heterotrissocladius marcidus,CNN300,300,11,75.4,81.7,82
+Limnophyes type,CNN300,300,12,60,75,75
+Mandible,CNN300,300,13,89.4,91.3,91
+Mentum,CNN300,300,14,76.9,83.3,83
+Micropsectra insignilobus,CNN300,300,15,69.8,61.7,62
+Micropsectra radialis,CNN300,300,16,56.6,50,50
+Microtendipes pedellus,CNN300,300,17,79.4,83.3,83
+Multiple,CNN300,300,18,75.4,81.7,82
+Orthocladiinae Diamesinae,CNN300,300,19,61.8,56.7,57
+Other Diptera,CNN300,300,20,0,0,0
+Paratanytarsus austriacus,CNN300,300,21,66.7,61.5,62
+Particles,CNN300,300,22,92,76.7,77
+Pentaneurini spp,CNN300,300,23,82.8,88.9,89
+Pollen,CNN300,300,24,100,100,100
+Polypedilum spp,CNN300,300,25,37.5,42.9,43
+Psectrocladius spp,CNN300,300,26,58.2,65,65
+Pseudochironomus spp,CNN300,300,27,75,75,75
+Stictochironomus rosenschoeldi,CNN300,300,28,66.7,80,80
+Tanypodinae,CNN300,300,29,82.5,78.3,78
+Tanytarsus lugens,CNN300,300,30,68.1,78.3,78
+Tanytarsus spp,CNN300,300,31,59.7,65,62
+Others,CNN300,300,,40,50,50
+Acari spp,CNN500,500,1,93.9,92,92
+Background,CNN500,500,2,92.7,96.7,97
+Blurry specimens,CNN500,500,3,90.8,89,89
+Chaoborus mandible,CNN500,500,4,92.4,96.8,97
+Chaoborus th,CNN500,500,5,71.4,100,100
+Chironomus spp,CNN500,500,6,69.2,70.6,71
+Corynoneura ,CNN500,500,7,76.1,86,86
+Diatoms,CNN500,500,8,100,83.3,83
+Dicrotendipes spp,CNN500,500,9,50,25,25
+Fragmented hc,CNN500,500,10,58,40,40
+Heterotrissocladius marcidus,CNN500,500,11,81.6,84,84
+Limnophyes type,CNN500,500,12,71.4,62.5,62
+Mandible,CNN500,500,13,90.9,87,87
+Mentum,CNN500,500,14,75,75,75
+Micropsectra insignilobus,CNN500,500,15,76,79,79
+Micropsectra radialis,CNN500,500,16,61.5,67,67
+Microtendipes pedellus,CNN500,500,17,73,89,89
+Multiple,CNN500,500,18,82.1,69,69
+Orthocladiinae Diamesinae,CNN500,500,19,63.5,61,61
+Other Diptera,CNN500,500,20,0,0,0
+Paratanytarsus austriacus,CNN500,500,21,80.6,55.8,56
+Particles,CNN500,500,22,91.4,85.3,85
+Pentaneurini spp,CNN500,500,23,79.2,70.4,70
+Pollen,CNN500,500,24,100,100,100
+Polypedilum spp,CNN500,500,25,80,57.1,57
+Psectrocladius spp,CNN500,500,26,64.2,79,79
+Pseudochironomus spp,CNN500,500,27,75,50,50
+Stictochironomus rosenschoeldi,CNN500,500,28,60,60,60
+Tanypodinae,CNN500,500,29,75,77,77
+Tanytarsus lugens,CNN500,500,30,74.8,77,77
+Tanytarsus spp,CNN500,500,31,60.7,65,65
+Others,CNN500,500,32,100,25,25
+Acari spp,CNN1000,1000,1,96.1,98,98
+Background,CNN1000,1000,2,93.8,98.9,99
+Blurry specimens,CNN1000,1000,3,94.3,89.2,89
+Chaoborus mandible,CNN1000,1000,4,96.9,96.9,100
+Chaoborus th,CNN1000,1000,5,83.3,100,100
+Chironomus spp,CNN1000,1000,6,71.8,54.9,55
+Corynoneura ,CNN1000,1000,7,75.2,77.9,78
+Diatoms,CNN1000,1000,8,83.3,83.3,83
+Dicrotendipes spp,CNN1000,1000,9,0,0,0
+Fragmented hc,CNN1000,1000,10,59.2,49,49
+Heterotrissocladius marcidus,CNN1000,1000,11,75.4,81.7,82
+Limnophyes type,CNN1000,1000,12,80,50,50
+Mandible,CNN1000,1000,13,87.2,89.1,89
+Mentum,CNN1000,1000,14,66.7,75,75
+Micropsectra insignilobus,CNN1000,1000,15,71.7,74.3,74
+Micropsectra radialis,CNN1000,1000,16,69.1,70,67
+Microtendipes pedellus,CNN1000,1000,17,76.5,95.4,95
+Multiple,CNN1000,1000,18,77.4,76.6,77
+Orthocladiinae Diamesinae,CNN1000,1000,19,68.5,59.5,60
+Other Diptera,CNN1000,1000,20,14.3,16.7,17
+Paratanytarsus austriacus,CNN1000,1000,21,52.5,59.6,60
+Particles,CNN1000,1000,22,85.3,85.3,85
+Pentaneurini spp,CNN1000,1000,23,82.1,85.2,85
+Pollen,CNN1000,1000,24,100,100,100
+Polypedilum spp,CNN1000,1000,25,50,71.4,71
+Psectrocladius spp,CNN1000,1000,26,67.2,80,80
+Pseudochironomus spp,CNN1000,1000,27,87.5,58.3,58
+Stictochironomus rosenschoeldi,CNN1000,1000,28,75,60,60
+Tanypodinae,CNN1000,1000,29,83.3,81.1,81
+Tanytarsus lugens,CNN1000,1000,30,79.4,79,79
+Tanytarsus spp,CNN1000,1000,31,60,68.5,69
+Others,CNN1000,1000,31,75,75,75
